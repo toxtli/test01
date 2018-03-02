@@ -1,0 +1,18 @@
+[11/22/16 17:51:35] Rodrigo Quezada: yarn
+[11/22/16 17:51:51] Rodrigo Quezada: repo: malachite
+[11/22/16 17:51:59] Rodrigo Quezada: node
+[11/22/16 17:52:07] Rodrigo Quezada: 7.0.1
+[11/22/16 17:52:29] Rodrigo Quezada: yarn install
+[11/22/16 17:52:47] Rodrigo Quezada: yarn run dev
+[11/22/16 17:52:53] Rodrigo Quezada: yarn start
+[11/22/16 17:53:05] Rodrigo Quezada: package.json
+[11/22/16 17:53:14] Rodrigo Quezada: scripts
+[11/22/16 17:54:29] Rodrigo Quezada: gulpfile.js
+[11/22/16 17:55:11] Rodrigo Quezada: middleWares
+[11/22/16 17:55:36] Rodrigo Quezada: static-config.json
+[11/22/16 17:56:39] Rodrigo Quezada: src
+[11/22/16 17:57:34] Rodrigo Quezada: es2016
+[11/22/16 17:57:51] Rodrigo Quezada: react
+[11/22/16 17:58:00] Rodrigo Quezada: redux
+[11/22/16 17:58:32] Rodrigo Quezada: immutable
+[11/22/16 17:58:53] Rodrigo Quezada: redux-sagas
